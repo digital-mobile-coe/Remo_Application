@@ -1,2 +1,2 @@
-# Remo_Application
+# Sample Application
 This is a sample repository
